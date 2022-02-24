@@ -9,7 +9,7 @@ A Bot Telegram Anti Users Channel to automatic ban users who using channel to se
 
 
 ### Heroku Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyzu/AntiChannel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kai-0987/AntiChannel)
 
 ### Host Locally:
 ```shell
