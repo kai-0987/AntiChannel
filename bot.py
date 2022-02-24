@@ -109,9 +109,8 @@ check /help for more.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Update", url=f"https://t.me/ProjectsSkyzu"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/skyzusupport"
+                        "Support", url=f"https://t.me/international_english_chattings"
                     ),
                 ]
             ]
@@ -129,13 +128,12 @@ async def help_handler(bot, message):
 /del_whitelist [channel_id] : remove channel from whitelist.
 /show_whitelist : Show all white list channels.
 
-for more help Go @idzeroidsupport and ask""",
+for more help pm @heyaaman and ask""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Update", url=f"https://t.me/ProjectsSkyzu"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/skyzusupport"
+                        "Support", url=f"https://t.me/international_english_chattings"
                     ),
                 ]
             ]
